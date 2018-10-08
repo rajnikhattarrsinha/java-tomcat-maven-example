@@ -22,7 +22,7 @@
 	  max-width: 100%;
 	  min-height: 20%;
 	  min-width: 30%;
-	  background-image: url("nissan.png");
+	  background-image: url("infini.png");
 	  background-size: cover;
 	}
 	.banner-simpli {
