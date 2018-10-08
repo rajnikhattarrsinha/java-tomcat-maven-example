@@ -163,7 +163,7 @@ who
 		</div>
 		 <div class="container">
 		 
-			<div class="row text-center"><h1>This line is the edited ....</h1></div>
+			<div class="row text-center"><h1>This line is the edited line...</h1></div>
 		 
 		 
 		 </div>
