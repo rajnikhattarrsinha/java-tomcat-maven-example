@@ -163,7 +163,7 @@ who
 		</div>
 		 <div class="container">
 		 
-			<div class="row text-center"><h1>Helping professionals thrive, not just survive</h1></div>
+			<div class="row text-center"><h1>This line is edited ....</h1></div>
 		 
 		 
 		 </div>
