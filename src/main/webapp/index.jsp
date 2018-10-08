@@ -6,7 +6,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Nissan </title>
+    <title>Ni-sama </title>
 
     <!-- Bootstrap core CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"></link>
@@ -22,7 +22,7 @@
 	  max-width: 100%;
 	  min-height: 20%;
 	  min-width: 30%;
-	  background-image: url("nissan.png");
+	  background-image: url("2018_nissan_maxima_angularfront.png");
 	  background-size: cover;
 	}
 	.banner-simpli {
@@ -50,8 +50,10 @@
             <div class="col-sm-4 offset-md-1 py-4">
               <h4 class="text-white">Contact</h4>
               <ul class="list-unstyled">
-                <li><a href="#" class="text-white">Follow on Twitter</a></li>
-                <li><a href="#" class="text-white">Email me</a></li>
+                <li><a href="#" class="text-white">Follow Divy on Twitter</a></li>
+                <li><a href="#" class="text-white">Like Divy on Facebook</a></li>
+                <li><a href="#" class="text-white">Email to Divy</a></li>
+
               </ul>
             </div>
           </div>
