@@ -22,7 +22,9 @@
 	  max-width: 100%;
 	  min-height: 20%;
 	  min-width: 30%;
+
 	  background-image: url("infini.png");
+
 	  background-size: cover;
 	}
 	.banner-simpli {
@@ -30,7 +32,7 @@
 	  width: 100%;
 	  max-height: 100%;
 	  max-width: 100%;
-	  background-image: url("simplilearn.png");
+	  background-image: url("nissan.png");
 	  background-size: cover;
 	}
 	
