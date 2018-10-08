@@ -72,7 +72,7 @@ who
       </div>
     </header>
 
-	<div style="font-size:100px">Debojyoti Paul was here</div>div>
+	<div style="font-size:100px">Debojyoti Paul was here</div>
 	
     <main role="main">
 
