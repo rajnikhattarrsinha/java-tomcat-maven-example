@@ -31,7 +31,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>demopipeline0904</finalName>
+    <finalName>java-tomcat-maven-example</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
